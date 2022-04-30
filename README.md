@@ -5,6 +5,8 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding from home" height="auto">
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusindiso&show_icons=true&theme=radical)
+
 
 ### Languages:
 <div>
