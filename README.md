@@ -1,6 +1,9 @@
 <h2> Hi there 👋, I'm Lusndiso Ntanjana! </h2>
 <p><em>I'm a Front-end developer ready for challenges and adventure.!</em></p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding from home" height="250">
+</div>
 <!--
 **Lusindiso/Lusindiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
