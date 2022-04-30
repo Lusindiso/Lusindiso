@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Lusindiso Ntanjana
+I'm a remove Front-end developer ready for challenges and adventure.
 
 <!--
 **Lusindiso/Lusindiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
