@@ -7,7 +7,7 @@
 <hr>
 
 ![Lusindiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusindiso&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusindiso&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusindiso&layout=compact)
 <hr>
 
 ### Languages:
