@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding from home" height="auto">
 </div>
 <hr>
-
+<div align="center>
 ![Lusindiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusindiso&show_icons=true&theme=radical)
-
+</div>
 <hr>
 
 ### Languages:
