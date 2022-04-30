@@ -4,9 +4,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding from home" height="auto">
 </div>
+<hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusindiso&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lusindiso&layout=compact)](https://github.com/lusindiso/github-readme-stats)
+![Lusindiso's GitHub stats](https://github-readme-stats.vercel.app/api?username=lusindiso&show_icons=true&theme=radical)
+
+<hr>
 
 ### Languages:
 <div>
