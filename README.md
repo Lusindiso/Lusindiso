@@ -52,6 +52,7 @@
     <img src="./photos/Gmail.png" alt="Gmail"/>
   </a>
 </div>
+<div>Email: ntanjanalusindiso8@gmail.com
 <!--
 **Lusindiso/Lusindiso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
