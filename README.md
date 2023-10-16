@@ -1,5 +1,5 @@
 <h2> Hi there 👋, I'm Lusndiso Ntanjana! </h2>
-<p><em>I'm a Front-End Developer ready for challenges and adventure.!</em></p>
+<p><em>I'm a React Developer ready for challenges and adventure.!</em></p>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding from home" height="auto">
